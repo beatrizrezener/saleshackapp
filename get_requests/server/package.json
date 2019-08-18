@@ -1,0 +1,23 @@
+{
+  "name": "get_requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beatriz Rezener",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "*",
+    "express": "^4.13.3",
+    "jsforce": "^1.9.2",
+    "node-blink1": "^0.2.4",
+    "node-fetch": "^2.6.0",
+    "node-salesforce": "^0.8.0"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
