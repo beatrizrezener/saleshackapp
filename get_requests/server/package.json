@@ -14,7 +14,7 @@
     "express": "^4.13.3",
     "jsforce": "^1.9.2",
     "node-blink1": "^0.2.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-salesforce": "^0.8.0"
   },
   "engines": {
